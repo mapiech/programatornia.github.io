@@ -1215,6 +1215,10 @@ video {
   --tw-gradient-to: #22d3ee var(--tw-gradient-to-position)
 }
 
+.text-underlined {
+  text-decoration: underline;
+}
+
 .bg-clip-text {
   -webkit-background-clip: text;
   background-clip: text
